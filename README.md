@@ -24,7 +24,7 @@ If you are looking for more details on how the undo/redo functionality should wo
 
 **You will have until July 10th 3:00pm to submit your Pull Requests**
 
-### Method Signatures
+## Method Signatures
 To complete the challenge, implement the following functions:
 
 ```
@@ -47,7 +47,7 @@ bulk_redo(amount: integer)
   - redo the given amount of events
 ```
 
-### Example
+## Example
 
 ```
 initial_value = 0
